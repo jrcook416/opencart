@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Default Store Theme';
+$_['heading_title']    = 'Default IEMS Store Theme';
 
 // Text
 $_['text_extension']   = 'Extensions';
