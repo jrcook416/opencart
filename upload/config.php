@@ -26,6 +26,6 @@ define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'everyone-gets-laid-157');
 define('DB_PASSWORD', 'lzk;pO=LXqTi');
-define('DB_DATABASE', 'iems_openshop');
+define('DB_DATABASE', 'iems_opencart');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');

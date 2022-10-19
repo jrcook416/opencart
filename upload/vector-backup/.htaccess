@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^admin\.iemssupply\.website$
+RewriteRule ^/?$ "https\:\/\/iemssupply\.website\/opencart\/upload\/vector" [R=301,L]
+
