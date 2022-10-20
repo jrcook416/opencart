@@ -2,8 +2,8 @@ a {
   color: #f45511;
 }
 #menu {
-  background-color: #f45511;
-  background-image: linear-gradient(to bottom, #f45511, #f45511);
+  background-color: #212529;
+  background-image: linear-gradient(to bottom, #212529, #229ac8);
   background-repeat: repeat-x;
   border: 1px solid #f45511;
   border-color: #f45511;
