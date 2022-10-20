@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']    = 'Default IEMS Store Theme';
+$_['heading_title']    = 'Default Opencart Theme';
 
 // Text
 $_['text_extension']   = 'Extensions';
 $_['text_success']     = 'Success: You have modified the default store theme!';
-$_['text_edit']        = 'Edit Default Store Theme';
+$_['text_edit']        = 'Edit the Opencart Default Store Theme';
 
 // Entry
 $_['entry_status']     = 'Status';
